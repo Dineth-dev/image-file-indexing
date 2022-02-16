@@ -1,5 +1,10 @@
 Create branches to add feature, with a script file that does said feature 
 
+Add changes to this text file to mention filenames directly to the dev branch
+Commit and push to dev branch directly after making changes to this text file
+
+ALL CODE MUST BE WORKED ON IN THE BRANCHES YOU CREATE NOT ON THE DEV BRANCH
+
 Read directories for .jpg and .jpeg files - Elisha - 
 Maintain count of image files -
 Create directory for each individual image - Yixuan -
