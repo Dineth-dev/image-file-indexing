@@ -1,0 +1,8 @@
+Create branches to add feature, with a script file that does said feature 
+
+Read directories for .jpg and .jpeg files - Elisha - 
+Maintain count of image files -
+Create directory for each individual image - Yixuan -
+Rename each image file to match required format "image_000001.jpg" - Pratim - 
+Move image file to new directory
+Undo changes and move image files back to original location
